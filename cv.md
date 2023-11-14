@@ -54,3 +54,9 @@ def maskify(cc):
 ####Courses
 * HTML, CSS, JavaScript tutorials on [W3Schools](https://www.w3schools.com/)
 * Git, GitHub Basics on Manual [Git SCM](https://git-scm.com/book/ru) 
+
+---
+####Languages
+* Russian - Native
+* English - Upper-Intermediate 
+* German - Pre-Intermediate
